@@ -1,0 +1,3 @@
+1. Una función es una secuencia de instrucciones que resuelve una tarea específica. Esta secuencia está segmentada del algoritmo principal y puede ser reutilizada cuantas veces sea necesaria. Las funciones pueden recibir data por medio de sus parametros definidos. A partir de esto el programa principal por medio de argumentos puede mandar data hacia esta funcion
+
+2. De acuerdo con la especificacion de ECMAScript 5.1 para el objeto List usado en la evaluación de la lista de argumentos de una función, los argumentos son infinitos. No obstante, existen limites practicos debido a temas de memoria
